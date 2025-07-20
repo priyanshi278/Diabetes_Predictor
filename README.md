@@ -3,7 +3,7 @@
 **Glucopilot** is an intelligent and user-friendly web application that helps users quickly assess their risk of diabetes based on standard health parameters.  
 By entering key medical information, users receive a prediction—**High Risk** or **Low Risk**—backed by a trained machine learning model.
 
-🔗 **Try the Live App Now** → [Launch Glucopilot]([https://your-app-name.streamlit.app](https://glucopilot.streamlit.app/))
+🔗 **Try the Live App Now** → https://glucopilot.streamlit.app/
 
 ---
 

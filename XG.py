@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # Load model
-with open('models/xg3.pkl', 'rb') as file:
+with open('xg3.pkl', 'rb') as file:
     model = joblib.load(file)
 
 
